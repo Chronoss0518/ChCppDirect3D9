@@ -21,6 +21,7 @@
 - [ChCppBaseLibrary](https://github.com/Chronoss0518/ChCppBaseLibrary)
 - [ChCppWinLibrary](https://github.com/Chronoss0518/ChCppWinLibrary)
 - [ChCppD3D9Library](https://github.com/Chronoss0518/ChCppD3D9Library)
+- [ChCppDirect3DLibrary](https://github.com/Chronoss0518/ChCppDirect3DLibrary)
 - [ChCpp_External_Legacy_DirectX](https://github.com/Chronoss0518/ChCpp_External_Legacy_DirectX)
 
 # 使用方法
@@ -33,3 +34,4 @@
 - ChCppBaseLibraryの予定は[ChCppBaseLibraryのissues](https://github.com/Chronoss0518/ChCppBaseLibrary/issues)を参考にしてください
 - ChCppWinLibraryの予定は[ChCppWinLibraryのissues](https://github.com/Chronoss0518/ChCppWinLibrary/issues)を参考にしてください
 - ChCppD3D9Libraryの予定は[ChCppD3D9Libraryのissues](https://github.com/Chronoss0518/ChCppD3D9Library/issues)を参考にしてください
+- ChCppDirect3DLibraryの予定は[ChCppDirect3DLibraryのissues](https://github.com/Chronoss0518/ChCppDirect3DLibrary/issues)を参考にしてください

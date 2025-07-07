@@ -10,3 +10,6 @@
 [submodule "ChCpp_External_Legacy_DirectX"]
 	path = ChCpp_External_Legacy_DirectX
 	url = https://github.com/Chronoss0518/ChCpp_External_Legacy_DirectX
+[submodule "ChCppDirect3DLibrary"]
+	path = ChCppDirect3DLibrary
+	url = https://github.com/Chronoss0518/ChCppDirect3DLibrary

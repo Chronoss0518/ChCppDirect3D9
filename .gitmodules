@@ -1,0 +1,12 @@
+[submodule "ChCppBaseLibrary"]
+	path = ChCppBaseLibrary
+	url = https://github.com/Chronoss0518/ChCppBaseLibrary
+[submodule "ChCppWinLibrary"]
+	path = ChCppWinLibrary
+	url = https://github.com/Chronoss0518/ChCppWinLibrary
+[submodule "ChCppD3D9Library"]
+	path = ChCppD3D9Library
+	url = https://github.com/Chronoss0518/ChCppD3D9Library
+[submodule "ChCpp_External_Legacy_DirectX"]
+	path = ChCpp_External_Legacy_DirectX
+	url = https://github.com/Chronoss0518/ChCpp_External_Legacy_DirectX
